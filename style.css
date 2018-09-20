@@ -1,0 +1,9 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+#sketch-holder{
+  border:5px solid black;
+  width: 399px;
+  height: 399px;
+}  
