@@ -45,7 +45,7 @@ function setScore(s){
     textStyle(BOLD);
     text("Score: "+s,1,2);
     textAlign(RIGHT)
-    text("Max Score: 1256",w-1,2);
+    text("Max Score: 109",w-1,2);
 
 }
 
